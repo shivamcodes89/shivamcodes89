@@ -83,6 +83,10 @@
 <a href="https://github.com/shivamcodes89" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="45" width="45" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:rajputshivam8550855@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" width="45" />
+</a>
 
 <br/><br/>
 
