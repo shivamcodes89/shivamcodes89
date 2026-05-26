@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-💻 CSE Student | Learning Web Development & DSA  <br>🚀 Currently learning Java, JavaScript, HTML & CSS  <br>📚 Building projects and improving daily  <br>🎯 Goal: Become a skilled Software Developer<br>
+💻 Full Stack Developer | Java DSA Enthusiast
+
+🚀 Building scalable web applications using MERN Stack  
+🧠 Solving Data Structures & Algorithms problems in Java  
+🔐 Experienced with REST APIs, JWT Authentication & Automation  
+⚡ Focused on writing clean, efficient and production-ready code  
+🎯 Goal: Software Engineer @ Top Product-Based Company<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shivamcodes89&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
