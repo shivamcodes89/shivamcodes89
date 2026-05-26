@@ -20,29 +20,27 @@
 
 ### 🛠️ Tech Stack
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb" /> |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,javascript" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
+**Frontend** <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />  
+
+<br/>
+
+**Backend** <img src="https://skillicons.dev/icons?i=nodejs,express" />  
+
+<br/>
+
+**Database** <img src="https://skillicons.dev/icons?i=mongodb" />  
+
+<br/>
+
+**Languages** <img src="https://skillicons.dev/icons?i=java,javascript" />  
+
+<br/>
+
+**Tools & Concepts** <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />  
 
 ---
 
-### 📁 Featured Projects
-
-* **🔮 Wedding Vault**
-  A secure platform to store and manage wedding media with authentication, uploads, and sharing.
-  `React` `Node.js` `MongoDB`
-
-* **🌲 DSA Journey**
-  A comprehensive repository of Data Structures & Algorithms solutions in Java.
-  `Java` `DSA`
-
----
-
-### 📊 GitHub & LeetCode Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivamcodes89&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -52,7 +50,7 @@
 <br />
 
 <div align="center">
-  <img width="80%" src="https://leetcard.jacoblin.cool/shivam_855?theme=dark&font=Syne%20Tactile&ext=activity" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamcodes89&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -68,15 +66,15 @@
 ### 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/shivam-rajput-08b820385/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/shivam_855/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40" width="40" style="filter: invert(66%) sepia(74%) saturate(1243%) hue-rotate(345deg) brightness(101%) contrast(97%);" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/shivamcodes89" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" width="45" />
 </a>
 
 <br/><br/>
