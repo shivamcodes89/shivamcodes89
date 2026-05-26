@@ -1,61 +1,48 @@
 <div align="center">
 
-# Hi 👋, I'm Shivam Rajput
+## Hi 👋 I'm Shivam Rajput
 
-### 🚀 Full Stack Developer | Java DSA Enthusiast | MERN Stack Developer
+### Full Stack Developer | Java DSA | MERN Stack
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+DSA+Enthusiast;MERN+Stack+Developer;REST+API+%7C+JWT+Authentication;Building+Scalable+Web+Applications" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-💻 Passionate Full Stack Developer focused on building scalable and efficient web applications  
-
-🧠 Strong problem-solving skills with Data Structures & Algorithms in Java  
-
-⚡ Experienced in developing modern MERN stack applications with clean architecture  
-
-🔐 Skilled in REST APIs, JWT Authentication, Backend Development & Automation  
-
-🚀 Consistently improving development skills through projects and coding practice  
-
-🎯 Aspiring Software Engineer aiming for top product-based companies  
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-### ☕ Programming Languages
-<img src="https://skillicons.dev/icons?i=java,javascript" />
-
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+DSA+Enthusiast;MERN+Stack+Developer;REST+API+%7C+JWT+Authentication" />
 
 </div>
 
 ---
 
-# 📈 GitHub Stats
+## 👨‍💻 About Me
+
+💻 Full Stack Developer focused on building scalable web applications  
+
+🧠 Solving Data Structures & Algorithms problems using Java  
+
+⚡ Building clean, efficient and production-ready MERN applications  
+
+🔐 Experienced with REST APIs, JWT Authentication & Backend Development  
+
+🚀 Continuously improving through projects and problem solving  
+
+🎯 Aspiring Software Engineer passionate about scalable systems  
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shivamcodes89&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode,postman" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcodes89&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shivamcodes89&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamcodes89&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamcodes89&theme=tokyonight&hide_border=true" />
 
@@ -63,7 +50,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -73,20 +60,16 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
+<a href="https://www.linkedin.com/in/shivam-rajput-08b820385/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://leetcode.com/YOUR-LEETCODE-ID">
-  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48" />
-</a>
-
-<a href="https://github.com/shivamcodes89">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="https://leetcode.com/u/shivam_855/">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45" />
 </a>
 
 </div>
@@ -94,8 +77,6 @@
 ---
 
 <div align="center">
-
-### 💡 “Code. Learn. Build. Repeat.”
 
 <img src="https://komarev.com/ghpvc/?username=shivamcodes89&label=Profile%20Views&color=0e75b6&style=flat" />
 
