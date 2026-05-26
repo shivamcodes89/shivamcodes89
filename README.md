@@ -51,6 +51,6 @@ REST API • JWT • Git • GitHub
 
 # 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- LeetCode: https://leetcode.com/YOUR-ID
+- LinkedIn: https://www.linkedin.com/in/shivam-rajput-08b820385/
+- LeetCode: https://leetcode.com/u/shivam_855/
 - GitHub: https://github.com/shivamcodes89
